@@ -1,0 +1,1 @@
+This is a file to check whether it has successfully commit/push a change while logged into your ieng6 account with git command.
